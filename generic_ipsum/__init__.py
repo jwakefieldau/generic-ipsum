@@ -1,1 +1,1 @@
-from generic_ipsum import GenericIpsum
+from .generic_ipsum import GenericIpsum

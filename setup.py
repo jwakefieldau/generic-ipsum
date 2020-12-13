@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="generic-ipsum",
-    version="0.0.1",
+    version="0.0.2",
     author="James Wakefield",
     author_email="jmw1982@gmail.com",
     description="Generic lorem ipsum text generating class",
